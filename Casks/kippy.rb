@@ -1,6 +1,6 @@
 cask "kippy" do
-  version "1.0.0"
-  sha256 "0a04d8d7ebf07cb0b0f6674e1aeae05e851d39d4617b5338ad18190348ebc70b"
+  version "1.0.1"
+  sha256 "39c0d24a9abe6f7429e6a4d3f9bb744fc667726209c8353a78f91a99d83f2edf"
 
   url "https://github.com/Lwant-02/kippy-releases/releases/download/v#{version}/Kippy.dmg",
       verified: "github.com/Lwant-02/kippy-releases/"
